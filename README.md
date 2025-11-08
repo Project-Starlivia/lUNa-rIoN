@@ -4,5 +4,5 @@
 構文例
 ```lxN
 rElc n@mE ≒ ✦hero✦ †
-cOnSole⋄loG ⟨ ✦good evening, §⟬ n@mE ⟭✦ ⟩ †
+cOnSole⋄loG ⟨ ✦GoOD eVEnInG, §⟬ n@mE ⟭✦ ⟩ †
 ```
