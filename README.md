@@ -3,6 +3,6 @@
 
 構文例
 ```lxN
-relic n@mE ≒ ✦hero✦ †
-console⋄log ⟨ ✦good evening, §⟬ n@mE ⟭✦ ⟩ †
+rElc n@mE ≒ ✦hero✦ †
+cOnSole⋄loG ⟨ ✦good evening, §⟬ n@mE ⟭✦ ⟩ †
 ```
